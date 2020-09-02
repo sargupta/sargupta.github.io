@@ -1,1 +1,9 @@
+# Basic Options
+title: Portfolio
+author: Abhishek Gupta
+email: sargupta93@gmail.com
+github_username: sargupta
+
+# Build settings
+markdown: kramdown
 theme: agency-jekyll-theme
