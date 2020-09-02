@@ -6,4 +6,4 @@ github_username: sargupta
 
 # Build settings
 markdown: kramdown
-theme: agency-jekyll-theme
+theme: minima
