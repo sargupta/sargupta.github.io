@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: /agency-jekyll-theme
 
 # Site settings
 title: Awesome Title
@@ -74,4 +74,4 @@ permalink: pretty
 # Build settings
 #markdown: kramdown
 #theme: agency-jekyll-theme
->>>>>>> 47d72f40c507fb0fe4f728e45f5af6393c16a68d
+#>>>>>>> 47d72f40c507fb0fe4f728e45f5af6393c16a68d
