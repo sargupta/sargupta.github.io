@@ -66,12 +66,12 @@ markdown: kramdown
 permalink: pretty
 =======
 # Basic Options
-title: Portfolio
-author: Abhishek Gupta
-email: sargupta93@gmail.com
-github_username: sargupta
+#title: Portfolio
+#author: Abhishek Gupta
+#email: sargupta93@gmail.com
+#github_username: sargupta
 
 # Build settings
-markdown: kramdown
-theme: agency-jekyll-theme
+#markdown: kramdown
+#theme: agency-jekyll-theme
 >>>>>>> 47d72f40c507fb0fe4f728e45f5af6393c16a68d
