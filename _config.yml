@@ -75,3 +75,5 @@ permalink: pretty
 #markdown: kramdown
 #theme: agency-jekyll-theme
 #>>>>>>> 47d72f40c507fb0fe4f728e45f5af6393c16a68d
+
+theme: jekyll-theme-architect
